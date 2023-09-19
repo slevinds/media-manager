@@ -14,13 +14,13 @@
     ],
     "autoload": {
         "psr-4": {
-            "Nonocompany\\MediaManager\\": "src"
+            "Slevinds\\MediaManager\\": "src"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Nonocompany\\MediaManager\\MediaManagerServiceProvider"
+                "Slevinds\\MediaManager\\MediaManagerServiceProvider"
             ]
         }
     },
